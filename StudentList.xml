@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<students>
+  <student>
+    <name>Anton Yurchenko</name>
+    <department>FCSC</department>
+    <school>KNU</school>
+    <year>2</year>
+    <dateJoined>01.09.2020</dateJoined>
+    <address>address1</address>
+  </student>
+  <student>
+    <name>Mykhailo Yegorov</name>
+    <department>FIOT</department>
+    <school>KPI</school>
+    <year>1</year>
+    <dateJoined>01.09.2021</dateJoined>
+    <address>address2</address>
+  </student>  
+</students>

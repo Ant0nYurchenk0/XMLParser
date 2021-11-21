@@ -1,0 +1,17 @@
+C:\Users\anyur\Documents\prog\C#\XMLparser\bin\Debug\netcoreapp3.1\XMLparser.exe
+C:\Users\anyur\Documents\prog\C#\XMLparser\bin\Debug\netcoreapp3.1\XMLparser.deps.json
+C:\Users\anyur\Documents\prog\C#\XMLparser\bin\Debug\netcoreapp3.1\XMLparser.runtimeconfig.json
+C:\Users\anyur\Documents\prog\C#\XMLparser\bin\Debug\netcoreapp3.1\XMLparser.runtimeconfig.dev.json
+C:\Users\anyur\Documents\prog\C#\XMLparser\bin\Debug\netcoreapp3.1\XMLparser.dll
+C:\Users\anyur\Documents\prog\C#\XMLparser\bin\Debug\netcoreapp3.1\XMLparser.pdb
+C:\Users\anyur\Documents\prog\C#\XMLparser\obj\Debug\netcoreapp3.1\XMLparser.csproj.AssemblyReference.cache
+C:\Users\anyur\Documents\prog\C#\XMLparser\obj\Debug\netcoreapp3.1\XMLparser.XMLParserForm.resources
+C:\Users\anyur\Documents\prog\C#\XMLparser\obj\Debug\netcoreapp3.1\XMLparser.csproj.GenerateResource.cache
+C:\Users\anyur\Documents\prog\C#\XMLparser\obj\Debug\netcoreapp3.1\XMLparser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anyur\Documents\prog\C#\XMLparser\obj\Debug\netcoreapp3.1\XMLparser.AssemblyInfoInputs.cache
+C:\Users\anyur\Documents\prog\C#\XMLparser\obj\Debug\netcoreapp3.1\XMLparser.AssemblyInfo.cs
+C:\Users\anyur\Documents\prog\C#\XMLparser\obj\Debug\netcoreapp3.1\XMLparser.csproj.CoreCompileInputs.cache
+C:\Users\anyur\Documents\prog\C#\XMLparser\obj\Debug\netcoreapp3.1\XMLparser.dll
+C:\Users\anyur\Documents\prog\C#\XMLparser\obj\Debug\netcoreapp3.1\XMLparser.pdb
+C:\Users\anyur\Documents\prog\C#\XMLparser\obj\Debug\netcoreapp3.1\XMLparser.genruntimeconfig.cache
+C:\Users\anyur\Documents\prog\C#\XMLparser\obj\Debug\netcoreapp3.1\XMLparser.About.resources
